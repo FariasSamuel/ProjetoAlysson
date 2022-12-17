@@ -1,0 +1,30 @@
+{
+  "name": "projetoalysson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FariasSamuel/ProjetoAlysson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FariasSamuel/ProjetoAlysson/issues"
+  },
+  "homepage": "https://github.com/FariasSamuel/ProjetoAlysson#readme",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^16.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
